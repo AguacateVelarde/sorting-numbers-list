@@ -1,0 +1,16 @@
+{
+  "name": "sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reduce-numbers.js",
+  "scripts": {
+    "test": "jest --config jest.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.15.0",
+    "jest": "^27.0.6"
+  }
+}
